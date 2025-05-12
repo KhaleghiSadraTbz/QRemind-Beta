@@ -1,0 +1,6 @@
+D:\Repo\QRemindBeta\QRemindBeta\wwwroot\index.css
+D:\Repo\QRemindBeta\QRemindBeta\wwwroot\index.js
+D:\Repo\QRemindBeta\QRemindBeta\wwwroot\index.html
+wwwroot\index.css
+wwwroot\index.html
+wwwroot\index.js

@@ -1,0 +1,3 @@
+D:\Repo\WebApplication2\WebApplication2\wwwroot\index.css
+D:\Repo\WebApplication2\WebApplication2\wwwroot\index.js
+D:\Repo\WebApplication2\WebApplication2\wwwroot\index.html
