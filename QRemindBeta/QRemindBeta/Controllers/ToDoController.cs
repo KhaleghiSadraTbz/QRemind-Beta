@@ -22,7 +22,6 @@ namespace WebApplication2.Controllers
             if(!System.IO.File.Exists(PATH))
             {
                 System.IO.File.Create(PATH).Close();
-                System.IO.File.WriteAllText(PATH,"[]");
             }
         }
 
